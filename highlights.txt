@@ -1,0 +1,7 @@
+Highlights
+
+- A 2007 family of copulas for aggregation processes is revisited and corrected
+- Kendall's tau and Blomqvist's beta of global copulas never increase with dimension
+- Their limits are explicit probabilities given by the de Finetti representation
+- One family of copulas attains every Kendall's tau sequence of global copulas
+- Spearman's rho of Gumbel and Clayton copulas has positive limits in high dimension
